@@ -12,14 +12,14 @@
 
 ## Вывод
 
-Для обучения будем использовались сл. алгоритмы:
+Для обучения использовались сл. алгоритмы:
 
 - Naive Bayes Classifier;
 - Linear Support Vector Machine;
 - Random Forest Classifier;
 - Logistic Regression.
 
-Во всех случаях также будем использовать методы:
+Во всех случаях также использовались методы:
 - CountVectorizer;
 - TfidfTransformer. 
 
