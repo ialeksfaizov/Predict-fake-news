@@ -8,6 +8,7 @@
 - Pandas
 - Numpy
 - Scikit-learn 
+- NLTK
 - wordcloud
 
 ## Вывод
